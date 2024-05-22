@@ -6,14 +6,14 @@ const books = [
     title: "Book Title 1",
     author: "Author 1",
     description: "Short description of Book 1.",
-    cover: "https://images.unsplash.com/photo-1536237880829-dd441c249e0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjAxfGVufDB8fHx8MTcxNjQyMTkwMXww&ixlib=rb-4.0.3&q=80&w=1080",
+    cover: "https://images.unsplash.com/photo-1599566150163-29194dcaad36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjAxfGVufDB8fHx8MTcxNjQyMTkwMXww&ixlib=rb-4.0.3&q=80&w=1080",
     link: "https://www.amazon.com/dp/example1",
   },
   {
     title: "Book Title 2",
     author: "Author 2",
     description: "Short description of Book 2.",
-    cover: "https://images.unsplash.com/photo-1466695108335-44674aa2058b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjAyfGVufDB8fHx8MTcxNjQyMTkwMXww&ixlib=rb-4.0.3&q=80&w=1080",
+    cover: "https://images.unsplash.com/photo-1607746882042-944635dfe10e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxib29rJTIwY292ZXIlMjAyfGVufDB8fHx8MTcxNjQyMTkwMXww&ixlib=rb-4.0.3&q=80&w=1080",
     link: "https://www.amazon.com/dp/example2",
   },
   // Add more books as needed
